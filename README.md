@@ -1,1 +1,1 @@
-Collection of TrashPanda ready rendering engines.
+Collection of wrapped view engines that cannot be directly used with TrashPanda

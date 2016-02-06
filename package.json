@@ -1,7 +1,7 @@
 {
 	"name": "trashpanda-view-engines",
 	"version": "0.0.1",
-	"description": "Collection of view engines wrapped for use with TrashPanda",
+	"description": "Collection of wrapped view engines that cannot be directly used with TrashPanda",
 	"main": "./lib/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
